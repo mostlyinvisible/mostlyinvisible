@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (6 months ago)
+- [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (7 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (8 months ago)
 
 #### 🌱 What I am currently learning
