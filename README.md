@@ -6,7 +6,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (8 months ago)
 
 #### 🌱 What I am currently learning
-- [ClickHouse](https://clickhouse.com/)
+- [Deno](https://deno.land/)
 - [Rust](https://www.rust-lang.org/)
 - [Google Earth Engine](https://earthengine.google.com/)
 
@@ -21,9 +21,9 @@ Say hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Mastodon Social: <a rel="me" href="https://raphus.social/@mostlyinvisible">https://raphus.social/@mostlyinvisible</a>
-- Email: bk@mostlyinvisible.com
+- Mastodon Social: <a rel="me" href="https://hachyderm.io/@brianknight">https://hachyderm.io/@brianknight</a>
+- Email: brian@brianknight.me
 
 #### GitHub stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostlyinvisible&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianknight10&theme=github)
