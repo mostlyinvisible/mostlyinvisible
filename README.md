@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (7 months ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (8 months ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (9 months ago)
 
 #### 🌱 What I am currently learning
 - [ClickHouse](https://clickhouse.com/)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/fresh](https://github.com/denoland/fresh) ([2.2.1](https://github.com/denoland/fresh/releases/tag/2.2.1), 1 day ago) - The next-gen web framework.
+- [denoland/fresh](https://github.com/denoland/fresh) ([2.2.1](https://github.com/denoland/fresh/releases/tag/2.2.1), 2 days ago) - The next-gen web framework.
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) ([v1.0.1](https://github.com/mostlyinvisible/jetsa/releases/tag/v1.0.1), 2 months ago) - Convert FAA MVA and MIA charts to GeoJSON
 
 #### 💬 Feedback
