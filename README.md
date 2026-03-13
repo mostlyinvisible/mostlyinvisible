@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (5 days ago)
+- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (6 days ago)
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (8 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (9 months ago)
 
@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/fresh](https://github.com/denoland/fresh) ([2.2.1](https://github.com/denoland/fresh/releases/tag/2.2.1), 4 weeks ago) - The next-gen web framework.
+- [denoland/fresh](https://github.com/denoland/fresh) ([2.2.1](https://github.com/denoland/fresh/releases/tag/2.2.1), 1 month ago) - The next-gen web framework.
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) ([v1.0.1](https://github.com/mostlyinvisible/jetsa/releases/tag/v1.0.1), 3 months ago) - Convert FAA MVA and MIA charts to GeoJSON
 
 #### 💬 Feedback
