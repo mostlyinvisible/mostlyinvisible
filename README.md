@@ -4,7 +4,7 @@
 
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (1 month ago)
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (9 months ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (10 months ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (11 months ago)
 
 #### 🌱 What I am currently learning
 - [ClickHouse](https://clickhouse.com/)
