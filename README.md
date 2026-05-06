@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (1 month ago)
+- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (2 months ago)
 - [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (10 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (11 months ago)
 
