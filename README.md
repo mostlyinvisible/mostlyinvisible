@@ -12,7 +12,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) ([v1.0.1](https://github.com/mostlyinvisible/jetsa/releases/tag/v1.0.1), 6 months ago) - Convert FAA MVA and MIA charts to GeoJSON
 
 #### 💬 Feedback
 
