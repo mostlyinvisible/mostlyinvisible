@@ -3,7 +3,6 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (3 months ago)
-- [mostlyinvisible/jetsa](https://github.com/mostlyinvisible/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (1 year ago)
 
 #### 🌱 What I am currently learning
 - [ClickHouse](https://clickhouse.com/)
