@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (3 months ago)
+- [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people&#39;s personal sites (4 months ago)
 
 #### 🌱 What I am currently learning
 - [ClickHouse](https://clickhouse.com/)
