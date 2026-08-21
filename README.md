@@ -18,6 +18,7 @@ Say hello, I don't bite!
 
 #### 📫 How to reach me
 
+- Bluesky Social: <a href="https://bsky.app/profile/mostlyinvisible.bsky.social">@mostlyinvisible.bsky.social</a>
 - Mastodon Social: <a rel="me" href="https://raphus.social/@mostlyinvisible">https://raphus.social/@mostlyinvisible</a>
 - Email: bk@mostlyinvisible.com
 
